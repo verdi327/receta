@@ -34,6 +34,8 @@ group :test, :development do
   gem "selenium-webdriver"
 end
 
+gem "bower-rails"
+
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
