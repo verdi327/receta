@@ -32,6 +32,8 @@ group :test, :development do
   gem "capybara"
   gem "database_cleaner"
   gem "selenium-webdriver"
+  gem "teaspoon"
+  gem "phantomjs"
 end
 
 gem "bower-rails"
